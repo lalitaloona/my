@@ -1,0 +1,6 @@
+{
+  "dev": {
+    "serverUrl": "https://8929bce8.ngrok.io/",
+    "socketUrl": "wss://8929bce8.ngrok.io/"
+  }
+}
